@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">User College App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="about_college"> The Silver Oak University
+        is a premier university of the country with a venerable
+        legacy from Silver Oak Group of Institutes with acclaim for highest academic standards,
+        diverse educational programmes,
+        distinguished faculty,
+        illustrious alumni, varied  cocurricular activities and modern infrastructure.</string>
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+
+
+    </string-array>
+</resources>
